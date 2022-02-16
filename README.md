@@ -12,15 +12,15 @@
  <h1 align="center">Привет! 👋, меня зовут Егор</h1>
 <h3 align="center">Я фронтенд-разработчик(Хочу быть Фулстэк)</h3>
 
-- 🌱 Сейчас я изучаю **React, React Native**
+- 🌱 Сейчас я изучаю: **React, React Native**
 
-- 👨‍💻 Все мои проекты можно найти здесь [https://github.com/TheViruslogBeats](https://github.com/TheViruslogBeats)
+- 👨‍💻 Все мои проекты можно найти здесь: [https://github.com/TheViruslogBeats](https://github.com/TheViruslogBeats)
 
-- 📫 How to reach me **theviruslogbeats@gmail.com**
+- 📫 Моя почта: **theviruslogbeats@gmail.com**
 
-- 📄 Know about my experiences [https://theviruslogbeats.github.io/My-CV/](https://theviruslogbeats.github.io/My-CV/)
+- 📄 Мой сайт-резюме: [https://theviruslogbeats.github.io/My-CV/](https://theviruslogbeats.github.io/My-CV/)
 
-- ⚡ Смешной факт **Программист - Битмейкер**
+- ⚡ Смешной факт: **Программист - Битмейкер**
 
 <h3 align="left">Связь со мной</h3>
 <p align="left">
