@@ -1,5 +1,18 @@
-### Hi there 👋
+### Здравствуй! 👋
 
+### Меня зовут Егор, я фронтенд-разработчик(Хочу быть Фулстэк)
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* React
+* Sequelize(JS)
+* PostgreSQL
+
+Связь со мной: [Telegram](https://t.me/theviruslog), [Мой сайт-резюме](https://theviruslogbeats.github.io/My-CV/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheViruslogBeats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheViruslogBeats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TheViruslogBeats/TheViruslogBeats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
